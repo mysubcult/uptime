@@ -34,5 +34,23 @@
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "SmartDiag feedback on render",
+    "url": "https://telegram-feedback-bot-topics.onrender.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/telegram-feedback-bot-topics.onrender.com.ico",
+    "slug": "smart-diag-feedback-on-render",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
+    "dailyMinutesDown": {}
   }
 ]
