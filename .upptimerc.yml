@@ -5,7 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Bot
     url: https://telegram-feedback-bot-topics.onrender.com/healthz
-  - name: Bot-2
+  - name: Bot-3
     url: https://api.telegram.org/bot6300110269:AAEIYn2rDe7EIjrtECXlc7BsJy-GSj9gIAc/sendMessage?chat_id=389669884&text=hi
 
 status-website:
