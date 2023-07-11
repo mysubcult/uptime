@@ -4,19 +4,20 @@
     "url": "https://telegram-feedback-bot-topics.onrender.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/telegram-feedback-bot-topics.onrender.com.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 256,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "97.88%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
+    "time": 268,
+    "timeDay": 241,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-11": 31,
+      "2023-07-10": 25
     }
   },
   {
@@ -42,19 +43,20 @@
     "url": "https://telegram-feedback-bot-topics.onrender.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/telegram-feedback-bot-topics.onrender.com.ico",
     "slug": "smart-diag-feedback-on-render",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 267,
-    "timeDay": 291,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "96.80%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.80%",
+    "time": 245,
+    "timeDay": 246,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-07-10": 9
+      "2023-07-11": 31,
+      "2023-07-10": 34
     }
   }
 ]
