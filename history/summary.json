@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 97,
-    "timeWeek": 104,
+    "timeDay": 102,
+    "timeWeek": 107,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 587,
-    "timeWeek": 592,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "time": 586,
+    "timeDay": 387,
+    "timeWeek": 581,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -40,15 +40,15 @@
     "url": "https://smshubapi.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/smshubapi.onrender.com.ico",
     "slug": "smshub-bot",
-    "status": "up",
-    "uptime": "87.89%",
+    "status": "down",
+    "uptime": "87.99%",
     "uptimeDay": "67.49%",
     "uptimeWeek": "73.44%",
-    "uptimeMonth": "87.89%",
-    "uptimeYear": "87.89%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "87.99%",
     "time": 441,
-    "timeDay": 1515,
-    "timeWeek": 652,
+    "timeDay": 1597,
+    "timeWeek": 451,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -62,8 +62,7 @@
       "2025-02-27": 451,
       "2025-02-26": 486,
       "2025-02-25": 494,
-      "2025-02-24": 301,
-      "2025-02-23": 31
+      "2025-02-24": 301
     }
   },
   {
