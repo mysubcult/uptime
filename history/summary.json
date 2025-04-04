@@ -40,16 +40,16 @@
     "url": "https://smshubapi.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/smshubapi.onrender.com.ico",
     "slug": "smshub-bot",
-    "status": "up",
-    "uptime": "94.01%",
-    "uptimeDay": "56.97%",
+    "status": "down",
+    "uptime": "94.07%",
+    "uptimeDay": "57.84%",
     "uptimeWeek": "63.42%",
-    "uptimeMonth": "89.30%",
-    "uptimeYear": "94.01%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "94.07%",
     "time": 430,
-    "timeDay": 261,
-    "timeWeek": 306,
-    "timeMonth": 449,
+    "timeDay": 263,
+    "timeWeek": 307,
+    "timeMonth": 450,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2025-04-04": 577,
@@ -61,7 +61,7 @@
       "2025-03-29": 433,
       "2025-03-28": 338,
       "2025-03-27": 380,
-      "2025-03-26": 284
+      "2025-03-26": 246
     }
   },
   {
