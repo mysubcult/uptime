@@ -42,17 +42,17 @@
     "slug": "smshub-bot",
     "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "57.40%",
-    "uptimeWeek": "61.60%",
-    "uptimeMonth": "87.54%",
+    "uptimeDay": "59.26%",
+    "uptimeWeek": "61.71%",
+    "uptimeMonth": "87.53%",
     "uptimeYear": "96.54%",
     "time": 493,
     "timeDay": 230,
-    "timeWeek": 720,
-    "timeMonth": 571,
+    "timeWeek": 727,
+    "timeMonth": 572,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-05-29": 614,
+      "2025-05-29": 603,
       "2025-05-28": 489,
       "2025-05-27": 548,
       "2025-05-26": 552,
@@ -61,7 +61,7 @@
       "2025-05-23": 456,
       "2025-05-22": 535,
       "2025-05-21": 668,
-      "2025-05-20": 384
+      "2025-05-20": 400
     }
   },
   {
